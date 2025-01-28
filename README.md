@@ -48,7 +48,7 @@ npm install
      ```bash
      MOSTRO_PUB_KEY=npub19m9laul6k463czdacwx5ta4ap43nlf3lr0p99mqugnz8mdz7wtvskkm5wg
      ```
-    Read how to get a Mostro Pub Pey at the [Mostro daemon repository](https://github.com/MostroP2P/mostro).
+    Read how to get a Mostro Pub Key at the [Mostro daemon repository](https://github.com/MostroP2P/mostro).
 
 3. Load the environment variables:
    ```bash

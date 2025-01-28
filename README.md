@@ -115,7 +115,3 @@ This is a **Nuxt 3** project, which includes the following scripts for developme
 ## License
 
 This project is licensed under the MIT License 📜. For more information, see the [LICENSE](./LICENSE) file.
-
----
-
-This revised README improves readability and offers clearer instructions while maintaining the original structure and details. Let me know if further adjustments are needed!
